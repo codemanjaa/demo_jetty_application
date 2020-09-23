@@ -8,3 +8,5 @@ Get the IP address and display the Country, city  with whether has daylight savi
 Get the rank, display which country, positioned on the   covid effected list
 
 # 
+![Alt text](https://github.com/codemanjaa/demo_jetty_application/blob/master/Task-2-1%20Web%20Service%20with%20Web%20API%20-2.png?raw=true "Optional Title")
+
